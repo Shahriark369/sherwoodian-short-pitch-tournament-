@@ -82,7 +82,7 @@ nav ul li a:hover {
 
 video {
     width: 100%;
-    height: auto;
+    height: 100%;
     border-radius: 10px;
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.5);
 }
@@ -171,6 +171,7 @@ video {
 .point-table-section {
     padding: 0px;
     text-align: center;
+    margin-top: 30px;
 }
 
 .point-table-section h2 {
