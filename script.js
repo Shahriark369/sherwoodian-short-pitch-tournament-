@@ -3,7 +3,7 @@ const teams = {
         { name: "Shahriar(c)", img: "fold/ami.jpg" },
         { name: "Eiasin", img: "fold/eiasin.jpg" },
         { name: "Tamim", img: "fold/tamim.jpg" },
-        { name: "Fahad", img: "fold/user.jpg" },
+        { name: "Fahad", img: "fold/fahad.jpg" },
         { name: "Liakot", img: "fold/liton.jpg" },
         { name: "Mamun", img: "fold/mamun.jpg" },
         { name: "Galib", img: "fold/galib.jpg" },
@@ -25,7 +25,7 @@ const teams = {
         { name: "Rafi", img: "fold/user.jpg" },
         { name: "Fahim", img: "fold/fahim.jpg" },
         { name: "Saif", img: "fold/saif.jpg" },
-        { name: "Tanxid", img: "fold/user.jpg" },
+        { name: "Tanxid", img: "fold/tanxid.jpg" },
         { name: "Shahabul", img: "fold/shahabul.jpg" },
         { name: "Siam", img: "fold/user.jpg" }
     ]
