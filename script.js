@@ -26,7 +26,7 @@ const teams = {
         { name: "Fahim", img: "fold/fahim.jpg" },
         { name: "Saif", img: "fold/saif.jpg" },
         { name: "Tanxid", img: "fold/user.jpg" },
-        { name: "Shahabul", img: "fold/user.jpg" },
+        { name: "Shahabul", img: "fold/shahabul.jpg" },
         { name: "Siam", img: "fold/user.jpg" }
     ]
 };
