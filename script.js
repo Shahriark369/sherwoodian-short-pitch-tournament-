@@ -1,33 +1,33 @@
 const teams = {
     team1: [
-        { name: "Player 1", img: "player1.jpg" },
-        { name: "Player 2", img: "player2.jpg" },
-        { name: "Player 3", img: "player3.jpg" },
-        { name: "Player 4", img: "player4.jpg" },
-        { name: "Player 5", img: "player5.jpg" },
-        { name: "Player 6", img: "player6.jpg" },
-        { name: "Player 7", img: "player7.jpg" },
-        { name: "Player 8", img: "player8.jpg" }
+        { name: "Shahriar(c)", img: "fold/ami.jpg" },
+        { name: "Eiasin", img: "fold/eiasin.jpg" },
+        { name: "Tamim", img: "fold/tamim.jpg" },
+        { name: "Fahad", img: "fold/user.jpg" },
+        { name: "Liakot", img: "fold/liton.jpg" },
+        { name: "Mamun", img: "fold/mamun.jpg" },
+        { name: "Galib", img: "fold/galib.jpg" },
+        { name: "Jim", img: "fold/jim.jpg" }
     ],
     team2: [
-        { name: "Player A", img: "playerA.jpg" },
-        { name: "Player B", img: "playerB.jpg" },
-        { name: "Player C", img: "playerC.jpg" },
-        { name: "Player D", img: "playerD.jpg" },
-        { name: "Player E", img: "playerE.jpg" },
-        { name: "Player F", img: "playerF.jpg" },
-        { name: "Player G", img: "playerG.jpg" },
-        { name: "Player H", img: "playerH.jpg" }
+        { name: "Siam(c)", img: "fold/siam.jpg" },
+        { name: "Muttakin", img: "fold/muttakin.jpg" },
+        { name: "Jahid", img: "fold/user.jpg" },
+        { name: "Ariful", img: "fold/ariful.jpg" },
+        { name: "Punno", img: "fold/punno.jpg" },
+        { name: "Jobayer", img: "fold/jobear.jpg" },
+        { name: "Riad", img: "fold/riad.jpg" },
+        { name: "Shimanto", img: "fold/user.jpg" }
     ],
     team3: [
-        { name: "Player X", img: "playerX.jpg" },
-        { name: "Player Y", img: "playerY.jpg" },
-        { name: "Player Z", img: "playerZ.jpg" },
-        { name: "Player W", img: "playerW.jpg" },
-        { name: "Player V", img: "playerV.jpg" },
-        { name: "Player U", img: "playerU.jpg" },
-        { name: "Player T", img: "playerT.jpg" },
-        { name: "Player S", img: "playerS.jpg" }
+        { name: "Milon(c)", img: "fold/milon.jpg" },
+        { name: "Sanjid", img: "fold/user.jpg" },
+        { name: "Rafi", img: "fold/user.jpg" },
+        { name: "Fahim", img: "fold/fahim.jpg" },
+        { name: "Saif", img: "fold/saif.jpg" },
+        { name: "Tanxid", img: "fold/user.jpg" },
+        { name: "Shahabul", img: "fold/user.jpg" },
+        { name: "Siam", img: "fold/user.jpg" }
     ]
 };
 
