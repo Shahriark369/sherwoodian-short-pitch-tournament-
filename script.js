@@ -13,7 +13,7 @@ const teams = {
         { name: "Siam(c)", img: "fold/siam.jpg" },
         { name: "Muttakin", img: "fold/muttakin.jpg" },
         { name: "Jahid", img: "fold/user.jpg" },
-        { name: "Ariful", img: "fold/ariful.jpg" },
+        { name: "Ariful", img: "fold/bijoy.jpg" },
         { name: "Punno", img: "fold/punno.jpg" },
         { name: "Jobayer", img: "fold/jobear.jpg" },
         { name: "Riad", img: "fold/riad.jpg" },
