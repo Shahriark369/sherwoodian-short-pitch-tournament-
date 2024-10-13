@@ -123,41 +123,7 @@ video {
     transform: scale(1.05);
 }
 
-/* Player Section */
-.player-section {
-    padding: 10px;
-    text-align: center;
-    display: none;
-}
 
-.player-section.active {
-    display: block;
-}
-
-.players {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin-top: 15px;
-}
-
-.player-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.player-card img {
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    border: 2px solid #ddd;
-    margin-bottom: 5px;
-}
-
-.player-card h4 {
-    font-size: 14px;
-}
 
 /* Point Table Styles */
 .point-table-section {
