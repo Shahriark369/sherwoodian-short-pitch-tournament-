@@ -22,7 +22,7 @@ const teams = {
     team3: [
         { name: "Milon(c)", img: "fold/milon.jpg" },
         { name: "Sanjid", img: "fold/user.jpg" },
-        { name: "Rafi", img: "fold/user.jpg" },
+        { name: "Rafi", img: "fold/rafi.jpg" },
         { name: "Fahim", img: "fold/fahim.jpg" },
         { name: "Saif", img: "fold/saif.jpg" },
         { name: "Tanxid", img: "fold/tanxid.jpg" },
