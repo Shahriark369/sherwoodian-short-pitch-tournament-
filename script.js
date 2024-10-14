@@ -5,9 +5,11 @@ const teams = {
         { name: "Tamim", img: "fold/tamim.jpg" },
         { name: "Fahad", img: "fold/fahad.jpg" },
         { name: "Liakot", img: "fold/liton.jpg" },
-        { name: "Mamun", img: "fold/mamun.jpg" },
+        { name: "Sadik", img: "fold/user.jpg" },
         { name: "Galib", img: "fold/galib.jpg" },
         { name: "Jim", img: "fold/jim.jpg" }
+        { name: "Onik", img: "fold/user.jpg" }
+        { name: "Likhon", img: "fold/user.jpg" }
     ],
     team2: [
         { name: "Siam(c)", img: "fold/siam.jpg" },
@@ -18,6 +20,8 @@ const teams = {
         { name: "Jobayer", img: "fold/jobear.jpg" },
         { name: "Riad", img: "fold/riad.jpg" },
         { name: "Shimanto", img: "fold/user.jpg" }
+        { name: "Apon", img: "fold/user.jpg" }
+        { name: "...", img: "fold/user.jpg" }
     ],
     team3: [
         { name: "Milon(c)", img: "fold/milon.jpg" },
@@ -28,6 +32,8 @@ const teams = {
         { name: "Tanxid", img: "fold/tanxid.jpg" },
         { name: "Shahabul", img: "fold/shahabul.jpg" },
         { name: "Siam", img: "fold/user.jpg" }
+        { name: "Akash", img: "fold/user.jpg" }
+        { name: "...", img: "fold/user.jpg" }
     ]
 };
 
