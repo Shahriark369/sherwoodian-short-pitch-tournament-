@@ -156,6 +156,79 @@ video {
     font-size: 14px;
 }
 
+
+/* Cap Section */
+.cap-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.cap-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+.cap-card h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+    animation: fadeIn 0.5s ease-out;
+}
+
+.cap-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    animation: fadeIn 0.8s ease-out 0.5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
+
+.cap-card:hover {
+    transform: scale(1.05);
+}
+
+/* Animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Responsive Design */
+@media (min-width: 768px) {
+    .cap-section {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    }
+
+
 /* Responsive Styling */
 @media (min-width: 768px) {
     .players {
